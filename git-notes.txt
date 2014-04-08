@@ -1,0 +1,7 @@
+
+/c/Mike/DSR/coursera> mkdir 2014_data_science
+/c/Mike/DSR/coursera> cd 2014_data_science/
+/c/Mike/DSR/coursera/2014_data_science> git init
+Initialized empty Git repository in c:/Mike/DSR/coursera/2014_data_science/.git/
+/c/Mike/DSR/coursera/2014_data_science> git remote add origin https://github.com/mikeandreev/2014_data_science.git
+
